@@ -1,5 +1,4 @@
 # Pong Game
-<br>
 
 ## Description
 A pong game that is coded in Java with using stdraw library as graphic library. It has some additional features in terms of gameplay, graphics and sounds. Multiplayer and Singleplayer modes are playable.
